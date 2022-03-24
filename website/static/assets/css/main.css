@@ -8633,3 +8633,14 @@ i#pythonlogo{
 				display: flex;
 				flex-direction: column ;
 			}
+
+		.projectImg{
+			height: 7rem;
+			width: 7rem;
+			margin-bottom: 1rem;
+		}
+		.projectImg2{
+			height: 7rem;
+			width: 10rem;
+			margin-bottom: 1rem;
+		}
